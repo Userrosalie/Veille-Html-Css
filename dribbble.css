@@ -1,0 +1,15 @@
+.title
+{color: #000;
+text-decoration-color: black;
+-moz-background-inline-policy: bounding-boxs;}
+
+img{
+    width: 700px;
+    height: 700px;
+    orientation:center;
+}
+div{background-color:866849 ;}
+button{color: hotpink;
+width:10 ;
+height:10 ;}
+ 
